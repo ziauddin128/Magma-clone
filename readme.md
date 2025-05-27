@@ -1,10 +1,10 @@
-This is a clone of very popular awarded animated website https://thisismagma.com/
+# Magma-Clone
 
-# Demo 
+This is clone of very popular animated Website https://thisismagma.com/
 
-<img src="./demo.png" width="100%">
+# Demo
 
-<br>
+<img src = "./demo.png" width="100%">
 
-# Check Out Live Website
+# Checkout Live
 
